@@ -29,7 +29,7 @@ hr {
     }
 
     .lista-rodapé__link {
-        color: var(--cinza);
+        color: var(--amarelo);
         text-decoration: none;
         margin-left: 0.6em;
     }
